@@ -1,6 +1,6 @@
-        Ingredients Needed
+       #### Ingredients Needed
 Vegetable oil for the pans
-2 1/2 cups all-purpose flour
+ 1 cups all-purpose flour
 1 1/2 cups sugar
 1 teaspoon baking soda
 1 teaspoon fine salt
